@@ -1,0 +1,18 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.myClass{
+    text-align: center;
+    width: 100%;
+    font-size: large;
+}
+#myID{
+    color:gray;
+    text-align: left;
+    font-size: small;
+    font-style: italic;
+}
+body {
+    background: rgb(164,0,242);
+    background: linear-gradient(302deg, rgba(164,0,242,0.7777485994397759) 12%, rgba(24,254,0,0.6488970588235294) 50%, rgba(0,212,255,0.7665441176470589) 88%);
+}
