@@ -28,6 +28,7 @@ function setup() {
         enemyB[i] = getRandomNumber(255);
     }
 }
+
 function draw() {
     drawBackground(153,50,204);
 
